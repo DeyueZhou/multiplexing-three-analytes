@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+
+*_predictions.csv
+*_metrics.csv
+_smoke_outputs/
